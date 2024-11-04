@@ -42,3 +42,5 @@ Lock your devices with a PIN, fingerprint, or facial recognition. Avoid leaving 
 These steps will build a strong foundation for personal cybersecurity hygiene, protecting both your online and offline data from common threats.
 
 I will deep dive each of these topics to ensure I can help you become well versed in your personal information security practices; please keep an eye on the page as I will be releasing more information on these topics.
+
+---
