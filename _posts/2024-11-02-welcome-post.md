@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Welcome
 date: 2024-11-02 12:00:00 -500
 categories: [Introduction]
