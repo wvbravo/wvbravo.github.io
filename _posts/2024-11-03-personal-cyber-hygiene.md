@@ -2,7 +2,7 @@
 title: Intro to Personal Cyber Security Hygiene
 date: 2024-11-03 12:00:00 -500
 categories: [Personal Cyber Security Hygiene]
-tags: [cyber_security, passwords, 2fa, phishing, physcial_security]
+tags: [cyber_security, passwords, 2fa, phishing, physical_security]
 ---
 
 # Intro to Personal Cyber Security Hygiene
