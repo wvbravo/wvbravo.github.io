@@ -1,6 +1,6 @@
 ---
-title: Limit Personal Information on Social Media
-date: 2024-11-04 12:00:00 -500
+title: Introduction to General Preparedness
+date: 2024-11-05 12:00:00 -500
 categories: [General Preparedness]
 tags: [preparedness, emergency_planning, water_storage, first_aid, communication, shelter, self_defense, transportation, bug_out, bug_in, situational_awareness]
 ---
