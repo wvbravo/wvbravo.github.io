@@ -5,8 +5,6 @@ categories: [Personal Cyber Security Hygiene]
 tags: [cyber_security, social_media, personal_information, social_engineering]
 ---
 
-# Limit Personal Information on Social Media
-
 Sharing information on social media can connect us with friends and family, but it also exposes us to privacy and security risks. Cybercriminals and hackers often use social media platforms to gather personal information for phishing, social engineering, or even identity theft. Here’s how to protect your privacy and limit personal information on social media:
 
 ### 1. Avoid Sharing Sensitive Personal Information

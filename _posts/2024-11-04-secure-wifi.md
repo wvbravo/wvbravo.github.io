@@ -5,8 +5,6 @@ categories: [Personal Cyber Security Hygiene]
 tags: [cyber_security, wifi, network, public_wifi, iot]
 ---
 
-# Use a Secure Wi-Fi Network
-
 Using a secure Wi-Fi network is crucial for protecting your personal information and online activity. Public and unsecured networks are more vulnerable to attacks, potentially allowing hackers to intercept your data. Here’s a comprehensive guide to securing your Wi-Fi connections at home and on the go:
 
 ### 1. Secure Your Home Wi-Fi Network

@@ -5,9 +5,6 @@ categories: [Civilian Operational Security]
 tags: [preparedness, emergency_planning, self_defense, physical_security, bug_in, situational_awareness, digital_hyigene, information_security ]
 ---
 
----
-# Introduction to Civilian OPSEC
-
 Civilian Operational Security, commonly known as OPSEC, is an approach to protecting sensitive information from potential threats. In a civilian context, OPSEC involves adopting practices that help individuals and families maintain their privacy, prevent exploitation, and minimize risks in both physical and digital environments.
 
 The importance of civilian OPSEC has grown as our lives become increasingly interconnected. With more personal information accessible online and our daily activities often visible through social media, even small details about our routines, locations, or personal information can be used by malicious actors to take advantage of us. Civilian OPSEC practices, such as limiting public posts about one’s location, carefully managing privacy settings, and being cautious when sharing information, can significantly reduce risks associated with personal data exposure.

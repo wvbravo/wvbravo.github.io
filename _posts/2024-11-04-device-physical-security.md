@@ -5,8 +5,6 @@ categories: [Personal Cyber Security Hygiene]
 tags: [cyber_security, physical_security, device_security, device_lockout, encryption]
 ---
 
-# Practice Good Device Physical Security
-
 Securing your devices physically is just as important as protecting them digitally. Devices that are lost, stolen, or accessed by unauthorized individuals can lead to data breaches, identity theft, and loss of sensitive information. By practicing good physical security habits, you can prevent unauthorized access and protect your data from prying eyes. Here’s a guide to keeping your devices physically secure:
 
 ### 1. Use Strong Lock Screen Security

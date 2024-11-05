@@ -5,8 +5,6 @@ categories: [Personal Cyber Security Hygiene]
 tags: [cyber_security, passwords, 2fa, phishing, physical_security]
 ---
 
-# Intro to Personal Cyber Security Hygiene
-
 ### Here are ten essential cybersecurity hygiene practices that can help keep your personal information and devices safe:
 
 ### 1. Use Strong, Unique Passwords for Each Account

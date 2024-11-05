@@ -5,8 +5,6 @@ categories: [Personal Cyber Security Hygiene]
 tags: [cyber_security, passwords, 2fa]
 ---
 
-# Creating Strong and Unique Passwords
-
 Creating strong, unique passwords for each account is one of the most effective ways to safeguard your online security. Here's how to put this into practice:
 
 ### 1. Make Your Passwords Long and Complex

@@ -5,8 +5,6 @@ categories: [Personal Cyber Security Hygiene]
 tags: [cyber_security, vulnerabilities, antivirus]
 ---
 
-# Install and Maintain Antivirus Software
-
 Antivirus software is a fundamental layer of defense against malware, viruses, ransomware, and other malicious threats. It helps detect, block, and remove harmful software that can compromise your personal data, device performance, and online security. Here’s a guide to installing, configuring, and maintaining antivirus software for optimal protection:
 
 ### 1. Choose a Reliable Antivirus Program
